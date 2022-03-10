@@ -4,10 +4,10 @@ This project is used for learning TypeScript, Express and Node together.
 
 # Steps to follow
 
-1. `npm install` (to install nodemon)
-2. `npm start` (to start the nodemon)
+1. `npm install` (to install dependencies)
+2. `npm start` (to start the nodemon server)
 3. You can check the `localhost:3003`
-4. Use POSTMAN to send RESTful requests
+4. Use [POSTMAN](https://postman.com) to send RESTful requests
 
 # ReactTypeScript App (step-by-step)
 
