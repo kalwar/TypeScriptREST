@@ -9,7 +9,7 @@ This project is used for learning TypeScript, Express and Node together.
 3. You can check the `localhost:3003`
 4. Use [POSTMAN](https://postman.com) to send RESTful requests
 
-# ReactTypeScript App (step-by-step)
+# TypeScript-REST App (step-by-step)
 
 TypeScriptRESTApp using TS/Node/Express
 
